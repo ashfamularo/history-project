@@ -2,16 +2,21 @@ html {
   font-family: 'Cabin', Helvetica, sans-serif;
 }
 
-.fancy-font {
-  font-family: 'Cormorant', serif;
+a {
+  text-decoration: none;
+  color: #3DA5D9;
 }
 
-.brand-logo {
-  font-family: 'Cormorant', serif;
-  display: inline-block;
+.social-link {
+  color: #E7F1E7;
+}
+
+.social-link :hover {
+  color: #2D3142;
 }
 
 .logo-img {
   max-height: 200px;
   margin-top: 8px;
 }
+
